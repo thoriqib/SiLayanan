@@ -70,9 +70,8 @@
             <div class="row">
                 <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center pt-4 pt-lg-0 order-2 order-lg-1"
                     data-aos="fade-up" data-aos-delay="200">
-                    <h1>Badan Pusat Statistika Kota Jambi</h1>
-                    <h2 style=" text-shadow: 2px 2px 4px rgba(0, 0, 0, 1) !important">Melayani dengan Profesional,
-                        Integritas, dan Amanah</h2>
+                    <h1>Badan Pusat Statistik Kota Jambi</h1>
+                    <h2 style=" text-shadow: 2px 2px 4px rgba(0, 0, 0, 1) !important">Penyedia Data Statistik Berkualitas Untuk Indonesia Maju</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="/bukutamu" class="btn-get-started scrollto">Form Tamu</a>
                     </div>

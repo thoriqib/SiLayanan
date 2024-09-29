@@ -196,8 +196,8 @@ ul {
         width: 45px;
     }
     #header {
-      padding: 10px 0;
-  }
+        padding: 10px 0;
+    }
 }
 
 /*--------------------------------------------------------------
@@ -700,10 +700,10 @@ section {
 }
 
 @media (min-width: 1px) and (max-width: 668px) {
-  .btn-web{
-    display: flex;
-    justify-content: center;
-  }
+    .btn-web {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 /*--------------------------------------------------------------
@@ -905,7 +905,6 @@ section {
     padding: 15px 30px;
     transition: all ease-in-out 0.4s;
     background: #fff;
-    height: 301px;
 }
 
 .services .icon-box img {
@@ -1004,7 +1003,7 @@ section {
         width: 95%;
     }
     .close {
-        font-size: 33px; 
+        font-size: 33px;
         margin-top: -20px;
     }
 }
@@ -1033,7 +1032,7 @@ section {
     font-weight: bold;
 }
 
-#standardsLink{
+#standardsLink {
     color: #385683;
     font-size: 24px;
     font-weight: bold;
@@ -1254,4 +1253,3 @@ section {
     color: #4668a2;
     content: "/";
 }
-
